@@ -1,4 +1,4 @@
-### UlysseCode
+# UlysseCode
 Installation automatique de programme sous windows
 
 ##  Pour utiliser le code : 
@@ -22,7 +22,7 @@ J'ai essayé de détailler les différentes fonctions dans le code, mais à note
 - _vlc-media-player_3-0-19_fr_10829_
 - _winrar-x64-624fr_
 
-# Plusieurs axes d'amélioration à couvrir: 
+### Plusieurs axes d'amélioration à couvrir: 
 
 **Sur le fonctionnement :**
 
