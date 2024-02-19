@@ -9,7 +9,7 @@ l'adresse du dossier contenant les fichiers exécutables à lancer et faire dér
 
 ## Pour la suite éventuelle du projet : 
 
-J'ai essayé de détailler les différentes fonctions dans le code, mais à noter que tous les exécutables ne fonctionneront pas. J'ai utilisé [clubic ](https://www.clubic.com/telecharger/)  pour identifier les différents exécutables à tester. Voici la liste de ceux qui ont fonctionné : 
+J'ai essayé de détailler les différentes fonctions dans le code, mais à noter que tous les exécutables ne fonctionneront pas. J'ai utilisé [clubic](https://www.clubic.com/telecharger/) pour identifier les différents exécutables à tester. Voici la liste de ceux qui ont fonctionné : 
 
 _Firefox_Setup_118.0.2
 picasa_3-9_fr_12684
