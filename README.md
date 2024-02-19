@@ -11,8 +11,8 @@ l'adresse du dossier contenant les fichiers exécutables à lancer et faire dér
 
 J'ai essayé de détailler les différentes fonctions dans le code, mais à noter que tous les exécutables ne fonctionneront pas. J'ai utilisé [clubic](https://www.clubic.com/telecharger/) pour identifier les différents exécutables à tester. Voici la liste de ceux qui ont fonctionné : 
 
-_
-- Firefox_Setup_118.0.2
+
+_- Firefox_Setup_118.0.2
 - picasa_3-9_fr_12684
 - Postman-win64-Setup
 - poweriso-windows-8.7-25078
