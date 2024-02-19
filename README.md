@@ -4,7 +4,7 @@ Installation automatique de programme sous windows
 ##  Pour utiliser le code : 
 
 L'adresse de dossier exemple "C:/Users/Chriqui/Desktop/Executor/installeurs" dans la valeur de dossier dans le code Ulysse.py doit être remplacé par 
-l'adresse du dossier contenant les fichiers exécutables à lancer et faire dérouler automatiquement. Une fois cette modification faite, il suffit normalement de lancer le code et les programmes vont s'installer au fur et à mesure. Appuyez deux fois sur Ctrl+C pour mettre fin au processus (une seule fois est comptée comme une erreur ce qui aura pour effet de continuer le programme), et il faut bien lancer le code en tant qu'administrateur 
+l'adresse du dossier contenant les fichiers exécutables à lancer et faire dérouler automatiquement. Une fois cette modification faite, il suffit normalement de lancer le code et les programmes vont s'installer au fur et à mesure. Appuyez deux fois sur Ctrl+C pour mettre fin au processus (une seule fois est comptée comme une erreur ce qui aura pour effet de continuer le programme), et il faut bien lancer le code en tant qu'administrateur. Les systèmes d'exploitation autres que Windows ne sont pas couverts. 
 
 
 ## Pour la suite éventuelle du projet : 
