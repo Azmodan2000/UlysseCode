@@ -12,15 +12,15 @@ l'adresse du dossier contenant les fichiers exécutables à lancer et faire dér
 J'ai essayé de détailler les différentes fonctions dans le code, mais à noter que tous les exécutables ne fonctionneront pas. J'ai utilisé [clubic](https://www.clubic.com/telecharger/) pour identifier les différents exécutables à tester. Voici la liste de ceux qui ont fonctionné : 
 
 
-_- Firefox_Setup_118.0.2
-- picasa_3-9_fr_12684
-- Postman-win64-Setup
-- poweriso-windows-8.7-25078
-- speedfan_4-52_en_11074
-- supercopier_2-0-3-11_fr_11010_32
-- teamviewer-windows-15.50.5-32680
-- vlc-media-player_3-0-19_fr_10829
-- winrar-x64-624fr_
+- _Firefox_Setup_118.0.2_
+- _picasa_3-9_fr_12684_
+- _Postman-win64-Setup_
+- _poweriso-windows-8.7-25078_
+- _speedfan_4-52_en_11074_
+- _supercopier_2-0-3-11_fr_11010_32_
+- _teamviewer-windows-15.50.5-32680_
+- _vlc-media-player_3-0-19_fr_10829_
+- _winrar-x64-624fr_
 
 # Plusieurs axes d'amélioration à couvrir: 
 
