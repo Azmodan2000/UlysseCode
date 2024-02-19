@@ -28,6 +28,7 @@ J'ai essayé de détailler les différentes fonctions dans le code, mais à note
 
  - Il faudrait s'assurer que le code ne lance pas d'erreur quand l'exécutable a fini son travail.
  - Il faudrait réduire au maximum les time.sleep de manière à rendre l'exécution du code efficace
+ - Il faudrait trouver un critère pour reconnaitre la phase de chargement (barre verte), potentiellement avec un composant     de la fenêtre présent que durant cette phase. Cela permetrait d'être rapide sur l'exécution sans tomber dans un             surnombre d'itération pendant des chargements un peu long. 
  - Il faudrait créer un exécutable pour le lancement du code. Pour cela une méthode prometteuse est d'utiliser Pyinstaller et de rentrer en ligne de commande :
      ``` pyinstaller --onefile --console --uac-admin Ulysse.py ```
    ce qui permet de créer un exécutable en un seul fichier, qui s'ouvre en console et qui demande directement l'élévation de privilège à administrateur. Attention         
